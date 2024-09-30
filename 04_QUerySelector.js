@@ -8,9 +8,11 @@ fruits.style.margin='30px';
 fruits.style.width='50%';
 fruits.style.borderRadius='5px';
 fruits.style.listStyleType='none';
+fruits.style.color='blue';
 
 const basketHeading=document.querySelector('h2');
 basketHeading.style.marginLeft='30px';
+
 
 /*const fruitItems=document.querySelector('.fruit:nth-child(4)');
 fruitItems.style.backgroundColor='white';*/
