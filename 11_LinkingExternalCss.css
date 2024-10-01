@@ -1,0 +1,27 @@
+/* using tag*/
+form {
+    background-color: blue;
+    padding: 50px;
+}
+
+
+/*using class*/
+.btn {
+    border-radius: 10px;
+    padding: 5px;
+    margin-top: 20px;
+    border: none;
+}
+
+
+/*using id*/
+#username {
+    background-color: yellow;
+    border: none;
+}
+
+
+/*using attribute*/
+label[for="username"] {
+    color: yellow;
+}
