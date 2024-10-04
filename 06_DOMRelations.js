@@ -6,7 +6,7 @@ ul.parentElement.style.backgroundColor='blue';
 
 
 //Children=>children[HTML Collection]
-//ul.children[2].style.backgroundColor='pink';
+ul.children[2].style.backgroundColor='pink';
 //ul.lastElementChild.style.backgroundColor='pink';
 //ul.firstElementChild.style.backgroundColor='pink';
 
